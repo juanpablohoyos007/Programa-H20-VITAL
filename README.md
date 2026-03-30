@@ -27,7 +27,7 @@ Expanded: Fue muy útil en la Calculadora para que los cuadros de "Sedentario" y
 Container con Estilo: En la sección de Tips, usé un contenedor con bordes redondeados y una pequeña sombra para que parezca una tarjeta.
 
 📂 ¿Cómo está organizado mi código?
-Traté de ser ordenado con las carpetas como nos enseñó Gemini:
+Traté de ser ordenado con las carpetas:
 
 Screens: Aquí están los archivos de cada pantalla (home.dart, beneficios.dart, etc.).
 
